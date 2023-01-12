@@ -1,0 +1,8 @@
+.idea/
+decrypted/
+logs/
+target/
+KakaoTalk.perferences.xml
+*.db
+*.db-shm
+*.db-wal
